@@ -1,2 +1,2 @@
 # hello-world
-following githubs tutorial hell-world
+following githubs tutorial hello-world
