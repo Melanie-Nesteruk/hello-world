@@ -1,2 +1,2 @@
 # hello-world
-Learning to use github. basic hello world program
+following githubs tutorial hell-world
